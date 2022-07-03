@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TRAVEL_DIARIES/static/css/main.ce32fe46.css",
+    "main.js": "/TRAVEL_DIARIES/static/js/main.59188f91.js",
+    "static/media/advanced-option.jpg": "/TRAVEL_DIARIES/static/media/advanced-option.d8b711a6f63597ae1751.jpg",
+    "static/media/easy-customise.jpg": "/TRAVEL_DIARIES/static/media/easy-customise.395b8a3085231c5a2fe7.jpg",
+    "static/media/unlimited-features.jpg": "/TRAVEL_DIARIES/static/media/unlimited-features.b3ec113c118f7b0725ea.jpg",
+    "static/media/great-support.jpg": "/TRAVEL_DIARIES/static/media/great-support.f810f0b7c785a0f47c3b.jpg",
+    "static/media/bg-works.jpg": "/TRAVEL_DIARIES/static/media/bg-works.d2d7767bc9417df20985.jpg",
+    "static/media/modern-design.jpg": "/TRAVEL_DIARIES/static/media/modern-design.18288219a8e0bd20e21e.jpg",
+    "static/media/clean-design.jpg": "/TRAVEL_DIARIES/static/media/clean-design.e8cb23bf064850a0eca7.jpg",
+    "static/media/logo.png": "/TRAVEL_DIARIES/static/media/logo.68b074598e89a29c168f.png",
+    "static/media/bg-hero.jpg": "/TRAVEL_DIARIES/static/media/bg-hero.090568c562d5d71030a7.jpg",
+    "index.html": "/TRAVEL_DIARIES/index.html",
+    "main.ce32fe46.css.map": "/TRAVEL_DIARIES/static/css/main.ce32fe46.css.map",
+    "main.59188f91.js.map": "/TRAVEL_DIARIES/static/js/main.59188f91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce32fe46.css",
+    "static/js/main.59188f91.js"
+  ]
+}
